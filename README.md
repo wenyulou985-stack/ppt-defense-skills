@@ -1,3 +1,5 @@
+> **安装前先读 [PREINSTALL.md](PREINSTALL.md)**。Muse 及遇到同类动画问题的 Agent 使用 [Muse 适配说明](MUSE.md) 和 [Muse 完整包](ppt-defense-skills-muse.zip)。普通包保留原三套 Skills。
+
 # 答辩与 PPT · 三套 Agent Skills
 
 [直接阅读完整学习版](LEARN.md) · [下载标准 Skill 压缩包](ppt-defense-skills.zip)
